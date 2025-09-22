@@ -1,32 +1,31 @@
-# 🌐 Animated Portfolio Website
+# 🌟 My Portfolio Website
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+Welcome to my personal **animated portfolio website**! This site is built using **React.js** and **Tailwind CSS**, designed to showcase my skills, projects, and experience with a clean, modern, and interactive interface.
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+Check it out here: [shivamkumar.tech](https://shivamkumar.tech) 
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+- **React.js** – For building dynamic and interactive UI  
+- **Tailwind CSS** – For responsive and modern styling
 
-## 📁 Features
+## ✨ Key Features
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+- Fully responsive on mobile, tablet, and desktop  
+- Smooth animations and scrolling effects  
+- Modular React components for easy maintenance  
+- Clean layout with sections like About, Skills, Projects, and Contact  
+- Quick customization using Tailwind CSS utilities  
 
 
-## 🧑‍💻 How to Use
+Follow these steps to run the project locally:
 
-### 1. Clone the Repo
+### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/shivamkumartech/Portfolio.git]
 cd your-repo-name
 ````
 
@@ -36,10 +35,10 @@ cd your-repo-name
 npm install
 ```
 
-### 3. Run the App
+### 3. Start the development server
 
 ```bash
-npm start
+npm run dev
 ```
 
 ### 4. Build for Production
@@ -48,12 +47,12 @@ npm start
 npm run build
 ```
 
-## 📹 YouTube Tutorial
+### 5. Deploy (Optional)
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
+```bash
+npm run deploy
+```
 
-## 🌟 Credits
+## ⭐ Support
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+If you like this project, star the repo, share it, or reach out on shivamkumar.tech 🚀
